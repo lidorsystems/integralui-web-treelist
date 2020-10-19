@@ -1,7 +1,7 @@
 {
   "name": "integralui-web-treelist",
-  "version": "20.2.1",
-  "description": "IntegralUI Web - TreeList is a native Web Component that allows you to navigate through tree hierarchy showing only one list at a time.",
+  "version": "20.2",
+  "description": "IntegralUI Web Lite - TreeList is a native Web Component that allows you to navigate through tree hierarchy showing only one list at a time.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
